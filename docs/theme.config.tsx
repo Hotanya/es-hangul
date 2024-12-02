@@ -8,6 +8,9 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/toss/es-hangul',
   },
+  chat: {
+    link: 'https://discord.gg/vGXbVjP2nY',
+  },
   docsRepositoryBase: 'https://github.com/toss/es-hangul/tree/main/docs',
   useNextSeoProps() {
     const { asPath } = useRouter();

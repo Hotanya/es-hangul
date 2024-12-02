@@ -1,5 +1,25 @@
 # es-hangul
 
+## 2.2.3
+
+### Patch Changes
+
+- [#279](https://github.com/toss/es-hangul/pull/279) [`0a60a65`](https://github.com/toss/es-hangul/commit/0a60a6553060e86580a3e4ba9eb1b4479c8bdd7d) Thanks [@iamhungry1030](https://github.com/iamhungry1030)! - chore: hasbatchim 함수의 조건문 검사 로직을 개선합니다.
+
+## 2.2.2
+
+### Patch Changes
+
+- [#275](https://github.com/toss/es-hangul/pull/275) [`473a845`](https://github.com/toss/es-hangul/commit/473a8451f21380b57a03d9dfb0ff9925c1f1fbed) Thanks [@shcshcshc](https://github.com/shcshcshc)! - fix: josa 리턴 타입 보강
+
+## 2.2.1
+
+### Patch Changes
+
+- [#254](https://github.com/toss/es-hangul/pull/254) [`70895e0`](https://github.com/toss/es-hangul/commit/70895e0eeb5f19707cdaf7af63337080cdb3b6c6) Thanks [@BO-LIKE-CHICKEN](https://github.com/BO-LIKE-CHICKEN)! - feat: 숫자를 한글로 바꾸는 함수 추가
+
+- [#250](https://github.com/toss/es-hangul/pull/250) [`c0ca9f5`](https://github.com/toss/es-hangul/commit/c0ca9f5a213e6b8939e72f2719834ac5dbd4759c) Thanks [@minsoo-web](https://github.com/minsoo-web)! - docs: susa 함수에 jsdoc을 추가합니다.
+
 ## 2.1.0
 
 ### Minor Changes

@@ -1,7 +1,7 @@
 export { assemble } from './assemble';
 export { combineCharacter, combineVowels } from './combineCharacter';
 export { convertQwertyToHangul, convertQwertyToAlphabet } from './convertQwertyToAlphabet';
-export { days } from './date';
+export { days } from './days';
 export { disassemble, disassembleToGroups } from './disassemble';
 export { disassembleCompleteCharacter } from './disassembleCompleteCharacter';
 export { josa } from './josa';
@@ -13,3 +13,5 @@ export { hasBatchim } from './hasBatchim';
 export { canBeChoseong, canBeJongseong, canBeJungseong } from './canBe';
 export { getChoseong } from './getChoseong';
 export { amountToHangul } from './amountToHangul';
+export { numberToHangul } from './numberToHangul';
+export { numberToHangulMixed } from './numberToHangulMixed';
